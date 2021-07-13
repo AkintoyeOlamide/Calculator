@@ -9,7 +9,7 @@ This project is a calculator, developed using React.
 
 ## Live-Demo
 
-[Calc-App](/)
+[Calc-App](https://calculator-akint-olamide.herokuapp.com/)
 
 
 ## Getting Started
