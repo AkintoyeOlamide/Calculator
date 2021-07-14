@@ -1,5 +1,5 @@
-import React from ".react";
-import PropTypes from "prop-types";
+import React from 'react';
+import PropTypes from 'prop-types';
 
 const Display = ({ result }) => (
   <div>
@@ -8,10 +8,10 @@ const Display = ({ result }) => (
 );
 
 Display.defaultProps = {
-  result: "0",
+  result: '0',
 };
 
-Display.PropTypes = {
+Display.propTypes = {
   result: PropTypes.string,
 };
 
