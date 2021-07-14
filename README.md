@@ -9,7 +9,7 @@ This project is a calculator, developed using React.
 
 ## Live-Demo
 
-[Calc-App](https://practical-turing-4a7b9c.netlify.app//)
+[Calc-App](https://unruffled-hopper-1c930c.netlify.app//)
 
 
 ## Getting Started
@@ -29,8 +29,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles app in production mode and optimizes the build for the best performance.
 
-
-
 ### `Prerequisites`
 
 To get this project up and running locally, "yarn install" is needed to be run in order to include all dependencies used for this project.
@@ -40,11 +38,10 @@ To get this project up and running locally, "yarn install" is needed to be run i
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
 3. Copy and paste the following code into the Terminal: git clone https://github.com/Akintoyeolamide/Calculator
-4. cd into  Calculator-App
+4. cd into Calculator-App
 5. Run "npm install".
 6. Run "npm start".
-6. Open, in your browser, 'localhost:3000'.
-
+7. Open, in your browser, 'localhost:3000'.
 
 ## Author Details::
 
@@ -52,9 +49,7 @@ To get this project up and running locally, "yarn install" is needed to be run i
 
 - Github: [@Akintoyeolamide](https://github.com/Akintoyeolamide)
 - Linkedin: [@Akintoyeolamide](https://www.linkedin.com/in/Akintoye-olamide/)
-- E-mail: <a href="mailto:Akintoyeolamide500@gmail.com?subject=Hello Olamide!">Email</a>  
-
-
+- E-mail: <a href="mailto:Akintoyeolamide500@gmail.com?subject=Hello Olamide!">Email</a>
 
 ## Show your support
 
