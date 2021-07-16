@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import '../App.css';
 import React, { Component } from 'react';
 import Display from './Display';
