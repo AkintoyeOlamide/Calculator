@@ -1,9 +1,11 @@
 body {
-  padding: 1px;
+  padding: 10px;
   background-color: #607bb1;
 }
 
 .App {
+  display: flex;
+  flex-wrap: wrap;
   text-align: center;
 }
 
