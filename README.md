@@ -12,7 +12,7 @@ This project is a calculator, developed using React.
 
 ## Live-Demo
 
-[Calc-App](https://unruffled-hopper-1c930c.netlify.app//)
+[Calc-App](https://sharp-sinoussi-f7eda3.netlify.app/)
 
 ## Getting Started
 
