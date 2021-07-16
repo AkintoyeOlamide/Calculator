@@ -2,6 +2,9 @@
 
 This project is a calculator, developed using React.
 
+## Screen-shots:
+<img src="assets/img/calc.png">
+
 ## `Build-With`
 
 - React
